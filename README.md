@@ -6,7 +6,7 @@ This notebook is an exploration of LangChain Models. Read [this post](https://al
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/langchain_decoded_1_models.ipynb)
 
-## [Part 2: Embeddings](notebooks/langchain_decoded_2_embeddings.ipynb) (coming soon)
+## [Part 2: Embeddings](notebooks/langchain_decoded_2_embeddings.ipynb)
 This notebook is an exploration of LangChain Embeddings. Read [this post](https://alphasec.io/langchain-decoded-part-2-embeddings) and follow along!
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/langchain_decoded_2_embeddings.ipynb)
