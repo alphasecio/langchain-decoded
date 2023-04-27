@@ -1,6 +1,8 @@
 # LangChain Decoded
 A companion guide for the blog post series, [LangChain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain). 
 
+[LangChain](https://langchain.readthedocs.io/en/latest/) is an open-source framework created to aid the development of applications leveraging the power of large language models (LLMs). It can be used for chatbots, text summarisation, data generation, code understanding, question answering, evaluation, and more. In this multi-part series, I explore various LangChain modules and use cases, and document my journey via Python notebooks. Feel free to follow along and fork the repository, or use individual notebooks on [Google Colab](https://colab.research.google.com).
+
 ## [Part 1: Models](notebooks/langchain_decoded_1_models.ipynb)
 This notebook is an exploration of LangChain Models. Read [this post](https://alphasec.io/langchain-decoded-part-1-models) and follow along!
 
@@ -11,7 +13,7 @@ This notebook is an exploration of LangChain Embeddings. Read [this post](https:
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/langchain_decoded_2_embeddings.ipynb)
 
-## [Part 3: Prompts](notebooks/langchain_decoded_3_prompts.ipynb) (coming soon)
+## [Part 3: Prompts](notebooks/langchain_decoded_3_prompts.ipynb)
 This notebook is an exploration of LangChain Prompts. Read [this post](https://alphasec.io/langchain-decoded-part-3-prompts) and follow along!
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/langchain_decoded_3_prompts.ipynb)
