@@ -18,7 +18,7 @@ This notebook is an exploration of LangChain Prompts. Read [this post](https://a
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_3_prompts.ipynb)
 
-## [Part 4: Indexes](notebooks/langchain_decoded_4_indexes.ipynb) (coming soon)
+## [Part 4: Indexes](notebooks/langchain_decoded_4_indexes.ipynb)
 This notebook is an exploration of LangChain Indexes. Read [this post](https://alphasec.io/langchain-decoded-part-4-indexes) and follow along!
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_4_indexes.ipynb)
