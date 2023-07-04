@@ -23,7 +23,7 @@ This notebook is an exploration of LangChain Indexes. Read [this post](https://a
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_4_indexes.ipynb)
 
-## [Part 5: Memory](notebooks/langchain_decoded_5_memory.ipynb) (coming soon)
+## [Part 5: Memory](notebooks/langchain_decoded_5_memory.ipynb)
 This notebook is an exploration of LangChain Memory. Read [this post](https://alphasec.io/langchain-decoded-part-5-memory) and follow along!
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_5_memory.ipynb)
@@ -37,3 +37,13 @@ This notebook is an exploration of LangChain Chains. Read [this post](https://al
 This notebook is an exploration of LangChain Agents. Read [this post](https://alphasec.io/langchain-decoded-part-7-agents) and follow along!
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_7_agents.ipynb)
+
+## [Part 8: Callbacks](notebooks/langchain_decoded_8_callbacks.ipynb) (coming soon)
+This notebook is an exploration of LangChain Callbacks. Read [this post](https://alphasec.io/langchain-decoded-part-8-callbacks) and follow along!
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded_8_callbacks.ipynb)
+
+## [All-in-One](notebooks/langchain_decoded.ipynb)
+This notebook is a consolidation of the individual notebooks above.
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-decoded/blob/main/notebooks/langchain_decoded.ipynb)
