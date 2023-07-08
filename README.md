@@ -1,4 +1,22 @@
 # LangChain Decoded
+<h4 align="center">
+  <a href="https://github.com/alphasecio/langchain-decoded/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Released under the MIT license." />
+  </a>
+  <a href="https://github.com/alphasecio/langchain-decoded">
+    <img src="https://img.shields.io/github/stars/alphasecio/langchain-decoded" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/alphasecio/langchain-decoded">
+    <img src="https://img.shields.io/github/forks/alphasecio/langchain-decoded" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/alphasecio/langchain-decoded">
+    <img src="https://img.shields.io/github/watchers/alphasecio/langchain-decoded" alt="GitHub Watchers" />
+  </a>
+  <a href="https://twitter.com/alphasecio">
+    <img src="https://img.shields.io/twitter/follow/alphasecio?label=Follow" alt="Follow on Twitter" />
+  </a>
+</h4>
+
 A companion guide for the blog post series, [LangChain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain). 
 
 [LangChain](https://langchain.readthedocs.io/en/latest/) is an open-source framework created to aid the development of applications leveraging the power of large language models (LLMs). It can be used for chatbots, text summarisation, data generation, code understanding, question answering, evaluation, and more. In this multi-part series, I explore various LangChain modules and use cases, and document my journey via Python notebooks. Feel free to follow along and fork the repository, or use individual notebooks on [Google Colab](https://colab.research.google.com).
